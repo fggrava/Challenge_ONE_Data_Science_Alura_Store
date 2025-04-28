@@ -9,7 +9,7 @@ Este projeto de análise de dados foi desenvolvido como parte de um desafio da f
 
 ⚙️ Tecnologias e Bibliotecas Utilizadas
 Python 3.11
-Pandas - Manipulação de dados
+Pandas - Manipulação de dados e geração de graficos
 
 📊 Etapas da Análise
 1. 📦 Faturamento Total por Loja
@@ -29,7 +29,7 @@ Representação com linhas.
 
 💡 Como Executar o Projeto
 Clone este repositório:
-git clone https://github.com/seu-usuario/projeto-analise-lojas.git
+git clone https://github.com/fggrava/Challenge_ONE_Data_Science_Alura_Store
 Instale os pacotes necessários:
 pip install -r requirements.txt
 Execute o notebook:
